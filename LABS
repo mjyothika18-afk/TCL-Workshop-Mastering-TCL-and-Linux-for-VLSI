@@ -1,0 +1,7 @@
+LABS IN DETAIL
+
+Day 1: Understand the vsdsynth tool box, creating a command to called 'tclbox' which helps to input the input file location as argument (and performing synthesis and timing analysis later on).
+Scenarios to consider while using the vsdsynth command and understanding the coding of it.
+
+Task 1:
+
