@@ -13,6 +13,6 @@ Day 4:Scripting, hierarchy check, error handlinga and introduction to Yosys synt
 Day 5:World of 'procs',interpret clock generationconstraints,IO delays and transistion constarints, Quality of Results generation algorithm.
 
 ## *Let's dive into the details*
-1.TCLbox project in detail
+1.[TCLbox project in detail](TCLBOX/project)
 
-2.Labs
+2.[Labs](LABS)
