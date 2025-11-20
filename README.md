@@ -11,3 +11,8 @@ Day 3:Processing Clock and Input Constraints
 Day 4:Scripting, hierarchy check, error handlinga and introduction to Yosys synthesis tool.
 
 Day 5:World of 'procs',interpret clock generationconstraints,IO delays and transistion constarints, Quality of Results generation algorithm.
+
+## *Let's dive into the details*
+1.TCLbox project in detail
+
+2.Labs
