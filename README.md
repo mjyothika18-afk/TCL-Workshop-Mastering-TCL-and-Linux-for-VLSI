@@ -4,7 +4,7 @@ Welcome! This is an overview of the hands-on workshop conducted by VSD on master
 ## *Workshop Overview:*
 [Day 1](LabDay1/Day1.md): Understanding TCL tasks and subtasks, VSDSYNTH tool box usage scenarios.  
 
-Day 2:Creating variables and processing constrains from input CSV file,from CSV to format[1]
+[Day 2](LabDay2/Day2.md):Creating variables and processing constrains from input CSV file,from CSV to format[1]
 
 Day 3:Processing Clock and Input Constraints
 
