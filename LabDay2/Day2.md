@@ -1,6 +1,6 @@
-Lab-Day2
+# Lab-Day2
 
-Variable creation and processing constraints from CSV to format[1]
+## Variable creation and processing constraints from CSV to format[1]
 
 ![image](LabDay2_1.png)
 
