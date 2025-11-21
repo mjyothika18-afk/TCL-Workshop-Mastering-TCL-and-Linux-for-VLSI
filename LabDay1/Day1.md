@@ -26,4 +26,4 @@ iii)When the user needs to understand the syntax for the command using '-help'
 ![image](scenario2_1.png)
 
 
->>> Next [Day 2](LabDay2/Day2.md)
+>>> Next [Day 2](../LabDay2/Day2.md)
