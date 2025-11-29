@@ -1,3 +1,6 @@
+#TCL SCRIPT#
+
+
 #! /bin/env tclsh
 ##--------------------------------------------------------#
 ##-----Checks whether vsdsynth sage is correct or not-----#
