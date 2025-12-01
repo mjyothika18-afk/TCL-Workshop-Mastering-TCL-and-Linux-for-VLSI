@@ -4,10 +4,10 @@
 
 ![image](LabDay3_1-1.png)
 
-![image](LabDay3_1-2.png)
+![image](LastDay3_1-2.png)
 
-![image](LabDay3_3-3png)
+![image](LabDay3_3-3.png)
 
-![image](LabDay3_4-4.png)
+![image](LastDay3_4-4.png)
 
-![image](LabDay3_5-5.png)
+![image](LastDay3_5-5.png)
