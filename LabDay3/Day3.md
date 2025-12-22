@@ -11,3 +11,17 @@
 ![image](LastDay3_4-4.png)
 
 ![image](LastDay3_5-5.png)
+
+![image](day31.png)
+
+![image](day32.png)
+
+![image](day33.png)
+
+![image](day33.png)
+
+![image](day34.png)
+
+![image](day35.png)
+
+![image](day36.png)
