@@ -6,11 +6,11 @@ Welcome! This is an overview of the hands-on workshop conducted by VSD on master
 
 [Day 2](LabDay2/Day2.md): Creating variables and processing constrains from input CSV file,from CSV to format[1]
 
-Day 3:Processing Clock and Input Constraints
+[Day 3](LabDay3/Day3.md):Processing Clock and Input Constraints
 
-Day 4:Scripting, hierarchy check, error handling and introduction to Yosys synthesis tool.
+[Day 4](LAbDay4/Day4.md):Scripting, hierarchy check, error handling and introduction to Yosys synthesis tool.
 
-Day 5:World of 'procs',interpret clock generationconstraints,IO delays and transistion constarints, Quality of Results generation algorithm.
+[Day 5](LabDay5/Day5.md):World of 'procs',interpret clock generationconstraints,IO delays and transistion constarints, Quality of Results generation algorithm.
 
 ## *Project*
 [TCLbox tcl script](TCLBOX/tclbox.tcl)
